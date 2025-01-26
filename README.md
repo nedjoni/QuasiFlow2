@@ -140,7 +140,7 @@ Below is the list of tools that are used in the QuasiFlow pipeline. These tools 
 + [Trim-galore](https://github.com/FelixKrueger/TrimGalore)
 + [Quasitools](https://phac-nml.github.io/quasitools/)
 
-## Foreword
+## Conclusion
 
 This pipeline is made solely for more platform/universal use. It is made to be used with the current, DSL2 version of the nextflow. It is also simplified, so only a few steps are necessary for its installation and use.
 It is made and tested under the Ubuntu WSL subsystem for Windows, but it should work under regular Ubuntu or other similar OS. 
